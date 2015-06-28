@@ -1,0 +1,14 @@
+CPAN_AUTHOR=leejo
+inherit perl
+
+NAME="perl-CGI"
+VERSION=4.21
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl HTTP request handler"
+DESCRIPTION="CGI.pm is a stable, complete and mature solution for processing and
+preparing HTTP requests and responses. Major features including processing form
+submissions, file uploads, reading and writing cookies, query string generation
+and manipulation, and processing and preparing HTTP headers."
+
+ARCH=noarch
